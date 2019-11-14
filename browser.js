@@ -1,1 +1,1 @@
-module.exports = Symbol.for('util.inspect.custom')
+module.exports = Symbol.for('nodejs.util.inspect.custom')
